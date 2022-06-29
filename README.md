@@ -20,3 +20,8 @@ Na parte dos funcionarios, eu fiz o crud o 1º endpoint lista todos funcionarios
 4º consulta o funcionario pelo cpf e o 5º deleta o funcionario pelo id
 ![image](https://user-images.githubusercontent.com/98174354/176448298-eb04eaa6-2e3a-4017-8087-77bb0147d90a.png)
 
+
+Caso não deseja que o banco de dados esteja no projeto, basta excluir esses dois arquivos e rodar novamente.
+![image](https://user-images.githubusercontent.com/98174354/176451047-18ed764e-6b05-4535-ab0c-b03e99bacfce.png)
+
+
