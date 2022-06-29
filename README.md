@@ -13,7 +13,11 @@ Para instalar as dependencias basta clicar com botão direito >>> gerenciar paco
 ![image](https://user-images.githubusercontent.com/98174354/176447991-05c4a38d-bbd5-4905-8ac1-b43c2a96c244.png)
 
 
-Deu tudo certo, você verá essa imagem abrindo para ti, o 1º endpoint da calculadora e a consulta dos logs de todas as contas que você realizou 
+Deu tudo certo, você verá essa imagem abrindo para ti, todos endpoints criados
+![image](https://user-images.githubusercontent.com/98174354/176448298-eb04eaa6-2e3a-4017-8087-77bb0147d90a.png)
+
+
+1º endpoint da calculadora e a consulta dos logs de todas as contas que você realizou 
 ![image](https://user-images.githubusercontent.com/98174354/176452587-3a214271-6b98-4e32-b122-c8ad892bc1e7.png)
 
 2º endpoint da calculadora calcula a operação que você quis fazer e salva no logs.
@@ -36,10 +40,6 @@ Na parte dos funcionarios, eu fiz o crud o
 5º deleta o funcionario pelo id
 ![image](https://user-images.githubusercontent.com/98174354/176454641-fd896913-ad4e-4200-9cb3-89342e44cde0.png)
 
-
-
-Imagem de todos endpoints criados
-![image](https://user-images.githubusercontent.com/98174354/176448298-eb04eaa6-2e3a-4017-8087-77bb0147d90a.png)
 
 
 Caso não deseja que o banco de dados esteja no projeto, basta excluir esses dois arquivos e rodar novamente.
