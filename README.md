@@ -1,7 +1,7 @@
-# ExecPontoCertificado
+# Crud funcionario API e Calculadora API
 Calculadora e Funcionario
 
-Olá pessoal da ponto certificado :), tudo bem ?
+Olá pessoal:), tudo bem ?
 
 Esse projeto foi desenvolvido com banco de dados local, para facilitar a execução dele :D. Foi enviado para git o banco com dados já.
 
